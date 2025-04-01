@@ -14,7 +14,7 @@ const RotateComponent = () => {
             ====================
         </div>
         <button onClick={()=>setRotateDeg(forgatJobb)}>Right</button>
-        <button onClick={()=>setRotateDeg(rotateDeg -10)}>Left</button>
+        <button onClick={()=>setRotateDeg(rotateDeg -5)}>Left</button>
 
     </div>
   )
